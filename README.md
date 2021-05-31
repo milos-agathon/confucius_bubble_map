@@ -7,3 +7,5 @@ colleges and 631 Confucius Classrooms in primary and secondary schools outside C
 
 In this repo, I'll walk you throught the process of creating an animated bubble map of Confucius institutes over time so that you can get a better sense of their expansion across the globe.
 
+![alt text](https://github.com/milos-agathon/confucius_bubble_map/blob/main/ci.gif?raw=true)
+
