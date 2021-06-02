@@ -137,8 +137,8 @@ guides(size = guide_legend(override.aes = list(alpha = 1),
          subtitle=paste0("Year of", " " ,as.character(as.factor(tail(tm %>% filter(.frame==i),1)$year))),
          caption="©2021 Milos Popovic https://milospopovic.net\nData: https://doi.org/10.7910/DVN/CWVIYV/D8QLGY, Harvard Dataverse, V2")+
 theme_minimal() +
-  theme(legend.position = c(.1, .2),
-  	plot.margin=unit(c(-2,-2,-2,-2), "cm"),
+  theme(legend.position = c(.15, .2),
+  	plot.margin=unit(c(-3,-3,-3,-3), "cm"),
     legend.text = element_text(size=18, color="grey20"),
     legend.direction = "horizontal",
     legend.title = element_text(size=20, color="grey20", face="bold"),
